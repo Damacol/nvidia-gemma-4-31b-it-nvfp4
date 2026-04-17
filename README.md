@@ -29,15 +29,23 @@ This repo is a curated starting point for devs, writers, researchers, and privac
 
 ## Quick Start for nvidia/Gemma-4-31B-IT-NVFP4
 1. Open [Venice Chat](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network) in your browser
-2. Select the **nvidia/Gemma-4-31B-IT-NVFP4** model from the selector
+2. Select the **Gemma-4-31B-IT-NVFP4** model from the model selector
 3. Drop your prompt: code, story, research, system design, art direction...
 4. Get fast, contextual responses without the usual lectures
 5. Keep everything private. Export or delete anytime.
 
 ---
 
+## Model Info: nvidia/Gemma-4-31B-IT-NVFP4
+- **Type**: Large Language Model / Multimodal AI
+- **Use Cases**: Code generation, creative writing, research assistance, image analysis
+- **Privacy**: Zero telemetry, client-side execution options available
+- **Access**: Free tier available via Venice.ai
+
+---
+
 ## Direct Access
-> [Start Chatting](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)  
+> [Start Chatting with Gemma-4-31B-IT-NVFP4](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)  
 > [Explore Pro Features](https://venice.ai/pricing?ref=i4kyGp)  
 > [Read the Docs](https://docs.venice.ai)  
 
